@@ -1,0 +1,6 @@
+{
+  "name": "Link Tracker & Analytics Platform",
+  "description": "A production-ready link tracking, smart routing, A/B testing, and analytics platform with role-based access control and developer APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
